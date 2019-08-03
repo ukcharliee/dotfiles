@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = charliebullock8@gmail.com
-	name = Charlie Bullock
+	email = Bullock
+	name = Charlie
